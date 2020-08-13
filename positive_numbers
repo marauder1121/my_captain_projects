@@ -1,0 +1,4 @@
+_list=[12,-7,5,64,-14,0,88,649]
+for i in _list:
+  if _list[i]>0:
+    print(_list[i],sep=' ,')
